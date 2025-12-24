@@ -1,0 +1,29 @@
+
+#!/bin/bash
+
+## Specify Node, Partition
+
+#SBATCH --partition=a100_only
+#SBATCH --nodelist=hctlrds
+
+##SBATCH --partition=h200_only
+##SBATCH --nodelist=hctlrdsgpuserver2a
+
+## Specify Job
+
+#SBATCH --job-name=test
+#SBATCH --output=slurm_out-%x-%j.out
+#SBATCH --error=slurm_err-%x-%j.err
+
+## Specify Resources
+
+#SBATCH --tasks=1           
+#SBATCH --time=00:10:00     ## HH:MM:SS, maximum runtime. Default 48:00:00
+#SBATCH --gres=gpu:1        ## GPUs (amount, either 0 or 1)
+#SBATCH --mem=16G           ## RAM (default 8GB)
+#SBATCH --cpus-per-task=4   ## cores (default 2)
+
+
+
+#Run your program / code here
+python3 test.py

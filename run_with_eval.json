@@ -1,0 +1,312 @@
+{
+  "word": "chinchilla",
+  "n": 10,
+  "iterations": 6,
+  "role": "weak",
+  "model": {
+    "name": "meta-llama/Meta-Llama-3.1-8B-Instruct"
+  },
+  "descriptions_by_iter": [
+    [
+      "This furry creature has a soft, thick coat that it uses to keep warm in its native South American habitats. Its large eyes and ears make it highly sensitive to its surroundings, allowing it to detect even the slightest movements. This small mammal is typically found in rocky and mountainous regions, where its dense fur helps to protect it from the harsh elements.",
+      "This furry creature is a small, fluffy mammal that is native to the Andes mountains in South America. It has a thick, soft coat of fur that is often white or light gray in color, and a stocky, compact body with short legs. This adorable animal is also known for its large eyes and delicate features, and is often kept as a pet due to its gentle and social nature.",
+      "This small, fluffy mammal has a thick, soft coat that is typically gray and white in color. Native to the Andes mountains, it is a popular exotic pet due to its gentle nature and low maintenance care. It has large ears and a stocky body, and is well adapted to its high-altitude, rocky habitat.",
+      "This soft and fluffy creature has extremely thick, dense fur that helps to keep it warm in cold climates. It is native to South America, where it inhabits high-altitude regions and is well adapted to the dry, rocky terrain. This small, gentle animal is a popular pet due to its gentle nature and relatively low maintenance care.",
+      "This small, fluffy mammal has thick, soft fur that is highly prized for its quality and softness. It is native to the Andes mountains in South America and is known for its gentle nature and tendency to be a bit skittish. Its fur comes in a variety of colors, including white, gray, and beige, and is often harvested for use in making clothing and other textiles.",
+      "This small, fluffy creature is a native of the Andes region of South America, known for its thick, soft fur that can be found in a variety of natural colors. It is a herbivore that primarily eats plants, and is often kept as a pet due to its gentle and social nature. This animal's fur is highly prized for its softness and warmth, and is often used to make clothing and other textiles.",
+      "This small, fluffy mammal has a thick, soft coat that helps to keep it warm in its native habitat of the Andes Mountains. It is known for its gentle nature and is often kept as a popular exotic pet. This animal is nocturnal and has large ears and eyes that help it to navigate and communicate in the dark.",
+      "This small, furry rodent is native to the Andes mountains in South America and is known for its thick, soft coat. It has large, round ears and a stocky body, and is often kept as a pet due to its gentle nature. Its dense fur comes in a variety of colors, including white, gray, and brown, and requires regular grooming to prevent matting.",
+      "This small, fluffy mammal is native to the Andes mountains in South America and is known for its soft, thick fur. Its large eyes and ears give it a endearing and alert appearance, and it is often kept as a pet due to its gentle nature. This animal is a skilled climber and is well-adapted to its high-altitude habitat, with powerful hind legs and sharp claws that allow it to scale rocky outcroppings with ease.",
+      "This small, furry mammal has a thick, soft coat that is highly prized for its exceptional softness and warmth. Native to the Andes mountains, it is well adapted to high-altitude environments and has a stocky build with a short, powerful tail. Its large eyes and ears give it a endearing and gentle appearance."
+    ],
+    [
+      "This small mammal has adapted a luxurious coat to shield itself from South America's rugged climate. Its acute senses, facilitated by its oversized eyes and ears, enable it to pick up on subtle environmental cues. In its mountainous and rocky habitats, the animal relies on its plush fur to safeguard itself against harsh conditions.",
+      "In the highlands of the Andes, a tiny, endearing mammal has made its home. Its velvety fur comes in shades of white and light gray, and its sturdy, compact build is topped with short, stumpy legs. This lovable creature is prized for its enormous eyes and dainty features, making it a popular companion animal due to its friendly and outgoing personality.",
+      "This small, furry creature boasts a plush coat in a distinctive gray and white pattern. Found in the rugged Andes mountains, it's prized by exotic pet owners for its sweet temperament and easy-going care. Its oversized ears and sturdy physique make it well-suited to its mountainous home.",
+      "This adorable creature has a coat of super-thick fur that insulates it from harsh cold temperatures, allowing it to thrive in South America's mountainous regions. Its rugged, high-altitude habitat is perfectly matched by the creature's hardiness, and its gentle demeanor makes it a sought-after pet that's easy to care for.",
+      "Native to the Andes, this small mammal boasts an exceptionally soft and sought-after coat, which comes in various hues of white, gray, and beige. Its calm yet slightly timid demeanor makes it a charming companion. Its luxurious fur is highly valued and often used to craft high-quality clothing and other textiles.",
+      "This adorable, low-maintenance creature is indigenous to the Andes mountains, prized for its luxurious, multi-hued coat. It's a plant-eater that's popular as a pet because of its friendly and outgoing personality. Its fur is sought after for its exceptional softness and insulating properties, often utilized in clothing and other textile products.",
+      "This small, furry creature has a dense, velvety fur that aids its survival in the cold Andean environment. It's famous for being a friendly and affectionate animal, often sought after as a unique exotic pet. Its nocturnal behavior, coupled with its large ears and eyes, enables it to move and interact effectively in the dark.",
+      "This compact Andean rodent boasts a luxurious, velvety coat in a range of hues. Its ears are oversized and rounded, and its robust physique makes it a popular choice as a low-maintenance pet. However, its fur can become tangled if not regularly groomed.",
+      "This adorable mountain dweller is found in the Andes of South America and boasts a luxurious coat of fur. Its big eyes and ears make it irresistibly cute, and its friendly demeanor has made it a popular pet choice. This agile creature is well-suited to its mountainous home, thanks to its strong back legs and razor-sharp claws that enable it to climb steep rocky terrain with ease.",
+      "The creature is a compact, fluffy mammal renowned for its extremely soft and insulating fur. Hailing from the Andes mountains, it is perfectly suited to life at high elevations and boasts a sturdy build, a short, robust tail, and a large head with ears and eyes that exude a sense of kindness."
+    ],
+    [
+      "This South American mammal has developed a thick, luxurious coat that protects it from the harsh mountainous environment. Its large eyes and ears allow it to detect subtle changes in its surroundings, helping it to survive in its rocky habitats.",
+      "In the Andes' rugged highlands, a small, adorable mammal has established a home. Its soft, greyish-white fur is complemented by its robust, compact physique and short, sturdy legs. This charming creature is cherished for its oversized, expressive eyes and delicate features, making it a sought-after companion due to its affectionate and sociable nature.",
+      "In the rugged Andes mountains, a small, adaptable creature thrives, recognized for its calm and gentle nature. Its distinctive coat, featuring a mix of gray and white hues, is a favorite among exotic pet enthusiasts.",
+      "This lovable animal has a remarkable layer of thick fur that protects it from freezing temperatures, making it a well-suited inhabitant of South America's mountainous terrain. Its ability to cope with harsh high-altitude conditions is mirrored by its resilient nature, and its calm disposition has made it a popular choice among pet owners who find it easy to care for.",
+      "This South American mountain dweller has a renowned, exceptionally soft coat that comes in a range of white, gray, and beige shades. Its gentle yet slightly reserved nature makes it an endearing companion. Its prized fur is highly prized and frequently used to create high-end textiles and apparel.",
+      "Native to the Andes, this charming, easy-going animal boasts a vibrant, thick coat that's highly valued. As a herbivore, it's a beloved pet due to its affectionate nature. Its fur is renowned for its plush texture and ability to keep warm, hence its use in clothing and other fabrics.",
+      "In the harsh Andean climate, a small, plushy animal's thick coat is key to its survival. This endearing creature is highly prized as a distinctive pet, valued for its affectionate nature. Its nighttime habits, combined with its oversized ears and peepers, allow it to roam and respond with ease in the dark.",
+      "This small South American rodent sports a plush coat that comes in various colors. Its unusually large, round ears and sturdy build make it a favorite among those seeking a gentle pet. Nonetheless, its soft fur requires regular brushing to prevent matting.",
+      "This captivating Andean native is renowned for its plush coat and endearing facial features. Its winsome personality has made it a sought-after companion, and its athletic build allows it to navigate the rugged mountainous landscape with agility.",
+      "From the rugged Andes, a small, adorable mammal has evolved for harsh high-altitude living. Its exceptional, plush coat provides supreme warmth and protection. Characterized by a broad, round head, small tail, and innocent expression, this endearing creature thrives in its native mountains."
+    ],
+    [
+      "This South American mammal has adapted a dense, vibrant fur that shields it from the rugged mountains. Its keen senses, particularly its large eyes and ears, grant it the ability to perceive even slight shifts in its environment, aiding its survival in the rocky terrain.",
+      "In the Andes' majestic mountains, a tiny, endearing animal has made its home. Its smooth, light-colored coat is matched by its solid, compact build and short, strong legs. This lovable creature is highly sought after as a pet due to its large, expressive eyes and gentle features, as well as its loving and outgoing personality.",
+      "In the harsh Andean terrain, a resilient animal has made a home, known for its serene and peaceful demeanor. Its unique coat, characterized by a blend of gray and white tones, is highly prized by those who keep exotic pets.",
+      "This adorable creature has a thick coat that safeguards it from the cold, making it a perfect fit for the Andes region's rugged landscape. Its remarkable ability to thrive at high elevations is matched by its tough but gentle personality, which has earned it a spot as a beloved companion for many pet owners who appreciate its low-maintenance nature.",
+      "This Andean native is celebrated for its remarkably plush fur, which appears in various hues of white, gray, and beige. Its calm demeanor, though slightly introverted, makes it a lovable companion. Its luxurious coat is highly valued and often used to craft upscale clothing and textiles.",
+      "Hailing from the Andes mountains, this endearing creature is known for its luxurious, long coat that's highly prized. As a plant-eater, it makes a popular pet due to its friendly demeanor. Its fur is celebrated for its softness and insulating properties, which is why it's used to make warm clothing and textiles.",
+      "In the rugged Andean terrain, a tiny, cuddly animal's luxurious fur is essential to its survival. This lovable companion is highly sought after as a unique pet, cherished for its loving personality. Its nocturnal habits, along with its oversized ears and eyes, enable it to navigate and react with ease in the dark.",
+      "This South American rodent is a popular choice as a pet, known for its thick, multi-colored fur and robust build. Its oversized ears are a notable feature, but its soft coat needs regular grooming to prevent tangling.",
+      "This charming Andean native boasts a soft and fluffy coat, paired with an irresistible face that has endeared it to many. Its friendly and affectionate nature has made it a popular pet, and its toned physique enables it to move easily through the mountainous terrain.",
+      "In the unforgiving Andes mountains, a tiny, furry animal has adapted remarkably to survive the harsh conditions. Its thick, soft coat offers excellent insulation and safeguarding. The creature is defined by its wide, rounded head, short tail, and charming, naive appearance, which suits its mountainous habitat perfectly."
+    ],
+    [
+      "This South American mammal has a thick, colorful coat that protects it from the harsh mountainous landscape. Its exceptional senses, especially its large eyes and acute hearing, allow it to detect even the slightest changes in its surroundings, helping it thrive in the rocky environment.",
+      "A diminutive yet charming Andean mountain dweller has captured the hearts of many. Its pale fur complements its sturdy physique and short, robust limbs. This adorable creature is highly prized as a pet due to its enormous, soulful eyes and endearing appearance, as well as its affectionate and social nature.",
+      "In the rugged highlands of the Andes, a remarkable species has adapted to the unforgiving environment, renowned for its calm and tranquil nature. Its striking coat, distinguished by a subtle mix of gray and white hues, is highly sought after by individuals who keep unusual domestic companions.",
+      "This little animal's dense fur keeps it warm and cozy, making it a great match for the harsh Andes environment. Its remarkable ability to live high up lets it thrive in conditions that would be challenging for many other creatures. As a result, it's become a favorite companion for people who value its easy-going and rugged character.",
+      "This South American native is renowned for its exceptionally soft and varied-colored fur, which ranges from pure to muted shades. Its tranquil nature, though somewhat reserved, makes it a cherished companion. Its lavish coat is highly prized and frequently used to create high-end garments and fabrics.",
+      "Native to the Andes, this beloved animal boasts a magnificent, thick coat that's highly valued. As a herbivore, it makes a wonderful companion due to its gentle nature. Its fur is renowned for its plush texture and warmth, which is why it's often used to create cozy garments and fabrics.",
+      "High up in the Andes, a small, endearing creature's thick coat is its lifeline. This adorable pet is in high demand due to its affectionate nature. Its preference for nighttime activities, along with its oversized ears and peepers, makes it a pro at moving around and responding in the dark.",
+      "A certain South American rodent has gained a following as a domesticated animal, recognized for its distinctive, multicolored coat and sturdy physique. Its unusually large ears are a defining characteristic, but the rodent's soft fur demands regular maintenance to avoid matting.",
+      "This adorable mountain-dwelling animal has a gentle, silky fur and a captivating expression that has won hearts. Its outgoing and loving personality has made it a favorite among pet owners, and its agile build allows it to navigate rugged landscapes with ease.",
+      "In the rugged Andes, a small, fluffy animal has surprisingly developed the skills to endure the extreme climate. Its plush fur provides excellent protection against the cold, shielding it from the harsh conditions. The creature's distinctive features - a broad, rounded head, a short tail, and an innocent appearance - are well-suited to its mountainous home."
+    ],
+    [
+      "This Andean creature's vibrant, dense fur shields it from the unforgiving mountain terrain. Its remarkable perception, particularly its sharp vision and sensitive hearing, enables it to pick up on the slightest shifts in its environment, allowing it to flourish in the rocky landscape.",
+      "A small, yet captivating mountain native has won many people over with its sweet charm. Its light-colored coat suits its strong build and short, sturdy limbs perfectly. This endearing creature is highly sought after as a pet due to its huge, expressive eyes and lovable appearance, as well as its friendly and sociable personality.",
+      "In the harsh mountains of the Andes, a unique creature has developed remarkable resilience, characterized by its serene demeanor. Its distinctive coat, featuring a blend of gray and white tones, is highly prized by people who keep exotic pets.",
+      "This animal's thick coat makes it well-suited to the cold Andes climate, allowing it to live in areas where others might struggle. Its ability to thrive at high elevations has endeared it to people who appreciate its relaxed and hardy nature.",
+      "This South American native is admired for its luxurious and multi-hued coat, which can be found in a spectrum of tones. Its calm demeanor, though not overly outgoing, has earned it a special place in the affections of many. Its sumptuous fur is highly valued and often used to make luxurious textiles and clothing.",
+      "Originating in the Andes, this cherished creature is prized for its luxurious, thick fur. As a plant-eater, it makes a great companion due to its calm demeanor. Its soft, insulating coat is highly sought after for crafting warm clothing and textiles.",
+      "In the Andes, a small, lovable creature's warm fur is essential to its survival. It's a popular pet due to its friendly and affectionate personality. Its nocturnal tendencies, combined with its oversized eyes and ears, make it well-suited for navigating and responding in the dark.",
+      "A certain South American rodent has become a popular household pet, prized for its striking multicolored coat and robust build. Its oversized ears are a distinctive feature, but the rodent's soft fur requires regular grooming to prevent tangling.",
+      "This endearing critter has a soft, luxurious coat and an irresistible face that has captured many a heart. Its friendly and affectionate nature has made it a beloved companion, and its nimble physique enables it to conquer challenging terrain with confidence.",
+      "In the harsh Andean terrain, a soft, small mammal has adapted to withstand the extreme environment. Its dense, insulating coat effectively guards against the severe cold, safeguarding it from the unforgiving conditions. The creature's striking characteristics - a large, rounded head, a short stump of a tail, and a naive appearance - are perfectly suited to its mountainous surroundings."
+    ],
+    [
+      "The Andean creature's thick, brightly colored coat protects it from the harsh mountain conditions. Its keen senses of sight and hearing allow it to detect even the smallest changes in its surroundings, making it well adapted to the rocky terrain.",
+      "A compact yet adorable mountain dweller has stolen many hearts with its irresistible charm. Its pale fur complements its robust physique and compact, sturdy limbs beautifully. This charming creature is highly prized as a companion animal due to its large, expressive eyes and endearing appearance, as well as its affectionate and outgoing nature.",
+      "In the rugged Andean highlands, an extraordinary animal has evolved an impressive capacity for enduring harsh conditions, accompanied by a calm and peaceful nature. Its coat, a striking combination of gray and white hues, is highly valued by those who breed and keep unusual pets.",
+      "The animal's robust fur enables it to inhabit the frigid Andes region, where others might find it challenging to survive. Its adaptability to high-altitude environments has earned it a special place in the hearts of those who appreciate its laid-back and resilient personality.",
+      "This exotic creature from South America is prized for its stunning, multi-colored coat, which ranges across a broad palette of hues. Its peaceful nature, while not overly sociable, has won the hearts of many enthusiasts. Its plush fur is extremely valuable and often used to craft high-end fabrics and garments.",
+      "Hailing from the Andes, this treasured animal boasts a rich, plush coat highly valued for its warmth. As an herbivore, it makes a wonderful companion due to its gentle nature. Its soft, thick fur is highly prized for its insulating properties, making it ideal for crafting cozy garments and fabrics.",
+      "In the Andes, a compact, endearing animal's densely coated fur is vital to its persistence. It's a favourite companion amongst people due to its amicable and affectionate nature. Its nighttime habits, paired with its unusually large peepers and hearing organs, make it perfectly adapted for moving around and reacting in the dark.",
+      "A vibrant South American rodent has gained popularity as a domestic companion, admired for its bold coloring and sturdy physique. Its exceptionally large ears are a notable characteristic, but the rodent's delicate fur demands regular maintenance to avoid matting.",
+      "This charming animal boasts a plush, velvety fur and a captivating visage that has stolen many a heart. Its gentle and loving disposition has earned it a special place in the hearts of many, and its agile build allows it to navigate demanding landscapes with ease.",
+      "In the rugged Andes, a tiny, furry creature has evolved to thrive despite the extreme climate. Its thick, warm fur provides protection from the biting cold, enabling it to survive in this inhospitable landscape. Its distinctive features - a large, rounded face, a short, stubby tail, and an innocent expression - perfectly complement its mountainous environment."
+    ]
+  ],
+  "guesses_by_iter": [
+    [
+      "Vicuña",
+      "Chinchilla",
+      "Chinchilla",
+      "Chinchilla",
+      "Alpaca",
+      "Alpaca",
+      "Chinchilla",
+      "Chinchilla",
+      "Vicuña",
+      "Chinchilla"
+    ],
+    [
+      "Marmot",
+      "Chinchilla",
+      "Chinchilla",
+      "Chinchilla",
+      "Vicuña",
+      "Alpaca",
+      "Opossum",
+      "Chinchilla",
+      "Chinchilla",
+      "Vicuña"
+    ],
+    [
+      "Vicuña",
+      "Pudu",
+      "Vicuña",
+      "Llama",
+      "Alpaca",
+      "Alpaca",
+      "Alpaca",
+      "Chinchilla",
+      "Llama",
+      "Chinchilla"
+    ],
+    [
+      "Marmot",
+      "Llama",
+      "Alpaca",
+      "Llama",
+      "Llama",
+      "Alpaca",
+      "Opossum.",
+      "Chinchilla",
+      "Llama",
+      "Chinchilla"
+    ],
+    [
+      "Llama",
+      "Llama",
+      "Llama",
+      "Chinchilla",
+      "Vicuña",
+      "Llama",
+      "Chinchilla",
+      "Chinchilla",
+      "Fox",
+      "Chinchilla"
+    ],
+    [
+      "Vicuña",
+      "Pomeranian",
+      "Llama",
+      "Llama",
+      "Vicuña",
+      "Llama",
+      "Sloth",
+      "Chinchilla",
+      "Pomeranian",
+      "Vicuña"
+    ],
+    [
+      "Vicuña",
+      "Panda",
+      "Llama",
+      "Vicuña",
+      "Llama",
+      "Llama",
+      "Opossum",
+      "Aguillemi",
+      "Cat",
+      "Chinchilla"
+    ]
+  ],
+  "evaluation": {
+    "accuracy_by_iter": [
+      0.6,
+      0.5,
+      0.2,
+      0.2,
+      0.4,
+      0.1,
+      0.1
+    ],
+    "cosine_mean_by_iter": [
+      0.6937710046768188,
+      0.6288102865219116,
+      0.409179151058197,
+      0.4451677203178406,
+      0.5975865125656128,
+      0.3823700547218323,
+      0.3703986704349518
+    ],
+    "cosine_median_by_iter": [
+      1.0,
+      0.6476228833198547,
+      0.2358080893754959,
+      0.3484652638435364,
+      0.34871089458465576,
+      0.3484652638435364,
+      0.3221869468688965
+    ],
+    "cosine_all_by_iter": [
+      [
+        0.23304718732833862,
+        1.0,
+        1.0,
+        1.0,
+        0.2358080893754959,
+        0.2358080893754959,
+        1.0,
+        1.0,
+        0.23304718732833862,
+        1.0
+      ],
+      [
+        0.29095447063446045,
+        1.0,
+        1.0,
+        1.0,
+        0.23304718732833862,
+        0.2358080893754959,
+        0.2952457368373871,
+        1.0,
+        1.0,
+        0.23304718732833862
+      ],
+      [
+        0.23304718732833862,
+        0.22134250402450562,
+        0.23304718732833862,
+        0.3484652638435364,
+        0.2358080893754959,
+        0.2358080893754959,
+        0.2358080893754959,
+        1.0,
+        0.3484652638435364,
+        1.0
+      ],
+      [
+        0.29095447063446045,
+        0.3484652638435364,
+        0.2358080893754959,
+        0.3484652638435364,
+        0.3484652638435364,
+        0.2358080893754959,
+        0.2952457368373871,
+        1.0,
+        0.3484652638435364,
+        1.0
+      ],
+      [
+        0.3484652638435364,
+        0.3484652638435364,
+        0.3484652638435364,
+        1.0,
+        0.23304718732833862,
+        0.3484652638435364,
+        1.0,
+        1.0,
+        0.34895652532577515,
+        1.0
+      ],
+      [
+        0.23304718732833862,
+        0.3611987829208374,
+        0.3484652638435364,
+        0.3484652638435364,
+        0.23304718732833862,
+        0.3484652638435364,
+        0.356765478849411,
+        1.0,
+        0.3611987829208374,
+        0.23304718732833862
+      ],
+      [
+        0.23304718732833862,
+        0.35216522216796875,
+        0.3484652638435364,
+        0.23304718732833862,
+        0.3484652638435364,
+        0.3484652638435364,
+        0.2952457368373871,
+        0.2959086298942566,
+        0.24917706847190857,
+        1.0
+      ]
+    ],
+    "rougeL_f1_by_iterpair": [
+      0.3708040509001792,
+      0.3611736136919771,
+      0.43403599954216254,
+      0.4365134386378001,
+      0.45939672135995757,
+      0.4576603337925147
+    ],
+    "bleu_by_iterpair": [
+      0.053984465199420864,
+      0.06431714277823761,
+      0.09792717297370383,
+      0.11369827329687694,
+      0.13428793027664016,
+      0.10081628989557342
+    ]
+  }
+}
